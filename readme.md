@@ -1,808 +1,808 @@
-# **Flatiron School / Learn.co Full Stack Web Development Curriculum**
+# **Full Stack Web Development Curriculum**
 ## *Intro to Ruby Development*
 #### Intro to Programming
-+ [Intro to Tic Tac Toe ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+intro-to-tic-tac-toe&type=Repositories&ref=searchresults)
-+ [MINSWAN- Yukihuro Matsumoto](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+minswan-yukihuro-matsumoto&type=Repositories&ref=searchresults)
-+ [What is a Program? ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+what-is-a-program&type=Repositories&ref=searchresults)
-+ [Hello World ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+hello-world&type=Repositories&ref=searchresults)
-+ [Welcome to Tic Tac Toe ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+welcome-to-tic-tac-toe&type=Repositories&ref=searchresults)
++ [Intro to Tic Tac Toe ]
++ [MINSWAN- Yukihuro Matsumoto]
++ [What is a Program? ]
++ [Hello World ]
++ [Welcome to Tic Tac Toe ]
 #### Debugging
-+ [Intro to IRB ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+intro-to-irb&type=Repositories&ref=searchresults)
-+ [Reading Error Messages](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+reading-error-messages&type=Repositories&ref=searchresults)
++ [Intro to IRB ]
++ [Reading Error Messages]
 #### Variables
-+ [About Variable Assignment ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+about-variable-assignment&type=Repositories&ref=searchresults)
-+ [Variable Assignment Lab ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+variable-assignment-lab&type=Repositories&ref=searchresults)
-+ [Ruby Data Types](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+ruby-data-types&type=Repositories&ref=searchresults)
-+ [Array Basics ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+array-basics&type=Repositories&ref=searchresults)
-+ [Tic Tac Toe Board](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+tic-tac-toe-board&type=Repositories&ref=searchresults)
++ [About Variable Assignment ]
++ [Variable Assignment Lab ]
++ [Ruby Data Types]
++ [Array Basics ]
++ [Tic Tac Toe Board]
 #### Methods
-+ [Intro to Methods](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+intro-to-methods&type=Repositories&ref=searchresults)
-+ [String Interpolation ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+string-interpolation&type=Repositories&ref=searchresults)
-+ [Puts and Return ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+puts-and-return&type=Repositories&ref=searchresults)
-+ [Display Tic Tac Toe Board Example ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+display-tic-tac-toe-board-example&type=Repositories&ref=searchresults)
-+ [Methods and Arguments](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+methods-and-arguments&type=Repositories&ref=searchresults)
-+ [TDD, Rspec, and Learn ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+tdd-rspec-and-learn&type=Repositories&ref=searchresults)
-+ [Default Arguments](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+default-arguments&type=Repositories&ref=searchresults)
-+ [Say Hello ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+say-hello&type=Repositories&ref=searchresults)
-+ [Interpolation Super Power](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+interpolation-super-power&type=Repositories&ref=searchresults)
-+ [Display Tic Tac Toe Board](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+display-tic-tac-toe-board&type=Repositories&ref=searchresults)
++ [Intro to Methods]
++ [String Interpolation ]
++ [Puts and Return ]
++ [Display Tic Tac Toe Board Example ]
++ [Methods and Arguments]
++ [TDD, Rspec, and Learn ]
++ [Default Arguments]
++ [Say Hello ]
++ [Interpolation Super Power]
++ [Display Tic Tac Toe Board]
 #### Command Line Applications
-+ [Intro to CLI Applications](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+intro-to-cli-applications&type=Repositories&ref=searchresults)
-+ [CLI Applications in Ruby](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+cli-applications-in-ruby&type=Repositories&ref=searchresults)
-+ [gets CLI Input](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+gets-cli-input&type=Repositories&ref=searchresults)
-+ [Greeting CLI Lab ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+greeting-cli-lab&type=Repositories&ref=searchresults)
-+ [Tic Tac Toe Move](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+tic-tac-toe-move&type=Repositories&ref=searchresults)
++ [Intro to CLI Applications]
++ [CLI Applications in Ruby]
++ [gets CLI Input]
++ [Greeting CLI Lab ]
++ [Tic Tac Toe Move]
 #### Logic and Conditions
-+ [Truthiness ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+truthiness&type=Repositories&ref=searchresults)
-+ [Booleans ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+booleans&type=Repositories&ref=searchresults)
-+ [About Ruby Conditionals](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+about-ruby-conditionals&type=Repositories&ref=searchresults)
-+ [Rspec Fizzbuzz](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+rspec-fizzbuzz&type=Repositories&ref=searchresults)
-+ [Tic Tac Toe Position Taken ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+tic-tac-toe-position-taken&type=Repositories&ref=searchresults)
-+ [Valid Tic Tac Toe Move](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+valid-tic-tac-toe-move&type=Repositories&ref=searchresults)
++ [Truthiness ]
++ [Booleans ]
++ [About Ruby Conditionals]
++ [Rspec Fizzbuzz]
++ [Tic Tac Toe Position Taken ]
++ [Valid Tic Tac Toe Move]
 #### Loops
-+ [Intro to Loops](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+intro-to-loops&type=Repositories&ref=searchresults)
-+ [Loops](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+loops&type=Repositories&ref=searchresults)
-+ [While and Until Loops](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+while-and-until-loops&type=Repositories&ref=searchresults)
-+ [While and Until Loops Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+while-and-until-loops-lab&type=Repositories&ref=searchresults)
-+ [Tic Tac Toe Turn ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+tic-tac-toe-turn&type=Repositories&ref=searchresults)
-+ [Tic Tac Toe Play Loop ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+tic-tac-toe-play-loop&type=Repositories&ref=searchresults)
++ [Intro to Loops]
++ [Loops]
++ [While and Until Loops]
++ [While and Until Loops Lab]
++ [Tic Tac Toe Turn ]
++ [Tic Tac Toe Play Loop ]
 #### Iteration
-+ [Iteration and Abstraction](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+iteration-and-abstraction&type=Repositories&ref=searchresults)
-+ [Intro to Ruby Iterators](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+intro-to-ruby-iterators&type=Repositories&ref=searchresults)
-+ [Tic Tac Toe Current Player](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+tic-tac-toe-current-player&type=Repositories&ref=searchresults)
++ [Iteration and Abstraction]
++ [Intro to Ruby Iterators]
++ [Tic Tac Toe Current Player]
 #### Ruby Tic Tac Toe
-+ [Nested Arrays](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+nested-arrays&type=Repositories&ref=searchresults)
-+ [Boolean Enumerables](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+boolean-enumerables&type=Repositories&ref=searchresults)
-+ [Search Enumerables](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+search-enumerables&type=Repositories&ref=searchresults)
-+ [Tic Tac Toe Game Status](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+tic-tac-toe-game-status&type=Repositories&ref=searchresults)
-+ [Tic Tac Toe in Ruby](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+tic-tac-toe-in-ruby&type=Repositories&ref=searchresults)
++ [Nested Arrays]
++ [Boolean Enumerables]
++ [Search Enumerables]
++ [Tic Tac Toe Game Status]
++ [Tic Tac Toe in Ruby]
 #### Intro to OO
-+ [Intro to Object Orientation](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+intro-to-object-orientation&type=Repositories&ref=searchresults)
++ [Intro to Object Orientation]
 #### Classes and Instances
-+ [Classes and Instances](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+classes-and-instances&type=Repositories&ref=searchresults)
-+ [Classes and Instances Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+classes-and-instances-lab&type=Repositories&ref=searchresults)
++ [Classes and Instances]
++ [Classes and Instances Lab]
 #### Instance Methods
-+ [Instance Methods](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+instance-methods&type=Repositories&ref=searchresults)
-+ [Instance Methods Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+instance-methods-lab&type=Repositories&ref=searchresults)
++ [Instance Methods]
++ [Instance Methods Lab]
 #### Object Properties
-+ [Instance Variables](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+instance-variables&type=Repositories&ref=searchresults)
-+ [Object Attributes Readme](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+object-attributes-readme&type=Repositories&ref=searchresults)
-+ [Object Attributes Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+object-attributes-lab&type=Repositories&ref=searchresults)
++ [Instance Variables]
++ [Object Attributes Readme]
++ [Object Attributes Lab]
 #### Object Lifecycles
-+ [Object Initialization](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+object-initialization&type=Repositories&ref=searchresults)
-+ [Object Initialize Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+object-initialize-lab&type=Repositories&ref=searchresults)
++ [Object Initialization]
++ [Object Initialize Lab]
 #### Object Models
-+ [OO Barking Dog](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+oo-barking-dog&type=Repositories&ref=searchresults)
++ [OO Barking Dog]
 #### OO Tic Tac Toe
-+ [Procedural vs Object Oriented Ruby](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+procedural-vs-object-oriented-ruby&type=Repositories&ref=searchresults)
-+ [OO Tic Tac Toe](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+oo-tic-tac-toe&type=Repositories&ref=searchresults)
++ [Procedural vs Object Oriented Ruby]
++ [OO Tic Tac Toe]
 ## *Welcome*
 #### Welcome
-+ [Welcome to Learn Verified](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+welcome-to-learn-verified&type=Repositories&ref=searchresults)
++ [Welcome to Learn Verified]
 ## *Git and GitHub*
 #### Git
-+ [Intro to Version Control](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+intro-to-version-control&type=Repositories&ref=searchresults)
-+ [Git Repository Basics](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+git-repository-basics&type=Repositories&ref=searchresults)
-+ [Git Repository Basics Quiz](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+git-repository-basics-quiz&type=Repositories&ref=searchresults)
++ [Intro to Version Control]
++ [Git Repository Basics]
++ [Git Repository Basics Quiz]
 #### Github Remotes
-+ [Git Remotes and Github](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+git-remotes-and-github&type=Repositories&ref=searchresults)
-+ [Git Remotes and Github Codealong](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+git-remotes-and-github-codealong&type=Repositories&ref=searchresults)
-+ [Git Forks and Clones](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+git-forks-and-clones&type=Repositories&ref=searchresults)
++ [Git Remotes and Github]
++ [Git Remotes and Github Codealong]
++ [Git Forks and Clones]
 #### Collaboration
-+ [Git Collaboration](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+git-collaboration&type=Repositories&ref=searchresults)
-+ [Git Collaboration Quiz](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+git-collaboration-quiz&type=Repositories&ref=searchresults)
-+ [Github Pull Requests](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+github-pull-requests&type=Repositories&ref=searchresults)
-+ [Git Basics Quiz](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+git-basics-quiz&type=Repositories&ref=searchresults)
++ [Git Collaboration]
++ [Git Collaboration Quiz]
++ [Github Pull Requests]
++ [Git Basics Quiz]
 ## *HTML and CSS*
 #### Web Fundamentals
-+ [How the Web Works](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+how-the-web-works&type=Repositories&ref=searchresults)
-+ [Site Planning](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+site-planning&type=Repositories&ref=searchresults)
++ [How the Web Works]
++ [Site Planning]
 #### HTML Fundamentals
-+ [HTML Fundamentals](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+html-fundamentals&type=Repositories&ref=searchresults)
-+ [Setting Up a New Site](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+setting-up-a-new-site&type=Repositories&ref=searchresults)
-+ [Document Structure](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+document-structure&type=Repositories&ref=searchresults)
-+ [Text Formatting](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+text-formatting&type=Repositories&ref=searchresults)
-+ [HTML Lists](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+html-lists&type=Repositories&ref=searchresults)
-+ [HTML Tables](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+html-tables&type=Repositories&ref=searchresults)
-+ [HTML Images](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+html-images&type=Repositories&ref=searchresults)
-+ [HTML Links](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+html-links&type=Repositories&ref=searchresults)
-+ [HTML Backing Up Changes](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+html-backing-up-changes&type=Repositories&ref=searchresults)
-+ [HTML Validation](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+html-validation&type=Repositories&ref=searchresults)
-+ [HTML Fundamentals Quiz](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+html-fundamentals-quiz&type=Repositories&ref=searchresults)
-+ [Dev Tools Super Power](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+dev-tools-super-power&type=Repositories&ref=searchresults)
-+ [HTML Album Cover](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+html-album-cover&type=Repositories&ref=searchresults)
-+ [HTML Riyadh Blog](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+html-riyadh-blog&type=Repositories&ref=searchresults)
-+ [HTML Issue Bot 9000](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+html-issue-bot-9000&type=Repositories&ref=searchresults)
++ [HTML Fundamentals]
++ [Setting Up a New Site]
++ [Document Structure]
++ [Text Formatting]
++ [HTML Lists]
++ [HTML Tables]
++ [HTML Images]
++ [HTML Links]
++ [HTML Backing Up Changes]
++ [HTML Validation]
++ [HTML Fundamentals Quiz]
++ [Dev Tools Super Power]
++ [HTML Album Cover]
++ [HTML Riyadh Blog]
++ [HTML Issue Bot 9000]
 #### Site Publishing
-+ [Site Publishing to FTP](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+site-publishing-to-ftp&type=Repositories&ref=searchresults)
-+ [Site Publishing to Github Pages](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+site-publishing-to-github-pages&type=Repositories&ref=searchresults)
++ [Site Publishing to FTP]
++ [Site Publishing to Github Pages]
 #### HTML5
-+ [HTML Forms and iFrames](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+html-forms-and-iframes&type=Repositories&ref=searchresults)
-+ [HTML Map Contact Form Code Along](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+html-map-contact-form-code-along&type=Repositories&ref=searchresults)
-+ [HTML5 Media ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+html5-media&type=Repositories&ref=searchresults)
-+ [HTML5 Video Embed Codealong](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+html5-video-embed-codealong&type=Repositories&ref=searchresults)
-+ [HTML5 Semantic Elements](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+html5-semantic-elements&type=Repositories&ref=searchresults)
-+ [HTML5 Semantic Elements Code Along](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+html5-semantic-elements-code-along&type=Repositories&ref=searchresults)
-+ [HTML5 Quiz](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+html5-quiz&type=Repositories&ref=searchresults)
++ [HTML Forms and iFrames]
++ [HTML Map Contact Form Code Along]
++ [HTML5 Media ]
++ [HTML5 Video Embed Codealong]
++ [HTML5 Semantic Elements]
++ [HTML5 Semantic Elements Code Along]
++ [HTML5 Quiz]
 #### CSS
-+ [CSS Fundamentals](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+css-fundamentals&type=Repositories&ref=searchresults)
-+ [CSS Styling Code-Along](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+css-styling-code-along&type=Repositories&ref=searchresults)
-+ [CSS Fundamentals Quiz](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+css-fundamentals-quiz&type=Repositories&ref=searchresults)
-+ [My Little Rainbow](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+my-little-rainbow&type=Repositories&ref=searchresults)
-+ [CSS Kitten Wheelbarrow](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+css-kitten-wheelbarrow&type=Repositories&ref=searchresults)
-+ [CSS Graffiti Override](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+css-graffiti-override&type=Repositories&ref=searchresults)
-+ [CSS Issue Bot 9000](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+css-issue-bot-9000&type=Repositories&ref=searchresults)
-+ [Deploy Your Profile Page](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+deploy-your-profile-page&type=Repositories&ref=searchresults)
++ [CSS Fundamentals]
++ [CSS Styling Code-Along]
++ [CSS Fundamentals Quiz]
++ [My Little Rainbow]
++ [CSS Kitten Wheelbarrow]
++ [CSS Graffiti Override]
++ [CSS Issue Bot 9000]
++ [Deploy Your Profile Page]
 #### Page Layout
-+ [Box Model](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+box-model&type=Repositories&ref=searchresults)
-+ [Layout Types](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+layout-types&type=Repositories&ref=searchresults)
-+ [Overflow](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+overflow&type=Repositories&ref=searchresults)
-+ [Fluid Height](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+fluid-height&type=Repositories&ref=searchresults)
-+ [Display](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+display&type=Repositories&ref=searchresults)
-+ [Float](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+float&type=Repositories&ref=searchresults)
-+ [Clearfix](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+clearfix&type=Repositories&ref=searchresults)
-+ [Centering](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+centering&type=Repositories&ref=searchresults)
-+ [Column Structure](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+column-structure&type=Repositories&ref=searchresults)
-+ [Positioning](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+positioning&type=Repositories&ref=searchresults)
-+ [Z Index](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+z-index&type=Repositories&ref=searchresults)
-+ [Codealong Creating Columns](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+codealong-creating-columns&type=Repositories&ref=searchresults)
-+ [CSS Layout Quiz](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+css-layout-quiz&type=Repositories&ref=searchresults)
-+ [Zetsy](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+zetsy&type=Repositories&ref=searchresults)
-+ [ZHW Shoes Layout](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+zhw-shoes-layout&type=Repositories&ref=searchresults)
++ [Box Model]
++ [Layout Types]
++ [Overflow]
++ [Fluid Height]
++ [Display]
++ [Float]
++ [Clearfix]
++ [Centering]
++ [Column Structure]
++ [Positioning]
++ [Z Index]
++ [Codealong Creating Columns]
++ [CSS Layout Quiz]
++ [Zetsy]
++ [ZHW Shoes Layout]
 #### Box Styles
-+ [Box Style Codealong](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+box-style-codealong&type=Repositories&ref=searchresults)
++ [Box Style Codealong]
 #### Responsive Layout
-+ [Building Responsive Sites](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+building-responsive-sites&type=Repositories&ref=searchresults)
-+ [Media Queries](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+media-queries&type=Repositories&ref=searchresults)
-+ [Responsive Media](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+responsive-media&type=Repositories&ref=searchresults)
-+ [Responsive Type](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+responsive-type&type=Repositories&ref=searchresults)
-+ [Responsive Layout](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+responsive-layout&type=Repositories&ref=searchresults)
-+ [Viewport](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+viewport&type=Repositories&ref=searchresults)
-+ [Responsive Layout Quiz](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+responsive-layout-quiz&type=Repositories&ref=searchresults)
-+ [Adding Responsive Features Codealong](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+adding-responsive-features-codealong&type=Repositories&ref=searchresults)
-+ [Animal Save](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+animal-save&type=Repositories&ref=searchresults)
++ [Building Responsive Sites]
++ [Media Queries]
++ [Responsive Media]
++ [Responsive Type]
++ [Responsive Layout]
++ [Viewport]
++ [Responsive Layout Quiz]
++ [Adding Responsive Features Codealong]
++ [Animal Save]
 #### Bootstrap Framework
-+ [Introduction to Bootstrap](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+introduction-to-bootstrap&type=Repositories&ref=searchresults)
-+ [Bootstrap Codealong](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+bootstrap-codealong&type=Repositories&ref=searchresults)
-+ [Bootstrap Grid System](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+bootstrap-grid-system&type=Repositories&ref=searchresults)
-+ [Layout Grids Codealong](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+layout-grids-codealong&type=Repositories&ref=searchresults)
-+ [Bootstrap Navbar Codealong](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+bootstrap-navbar-codealong&type=Repositories&ref=searchresults)
-+ [Bootstrap JS Plugins](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+bootstrap-js-plugins&type=Repositories&ref=searchresults)
-+ [Bootstrap Image Carousel Codealong](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+bootstrap-image-carousel-codealong&type=Repositories&ref=searchresults)
++ [Introduction to Bootstrap]
++ [Bootstrap Codealong]
++ [Bootstrap Grid System]
++ [Layout Grids Codealong]
++ [Bootstrap Navbar Codealong]
++ [Bootstrap JS Plugins]
++ [Bootstrap Image Carousel Codealong]
 ## *Procedural Ruby*
 #### Variables and Methods
-+ [About Variable Assignment](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+about-variable-assignment&type=Repositories&ref=searchresults)
-+ [Variable Assignment Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+variable-assignment-lab&type=Repositories&ref=searchresults)
-+ [String Interpolation](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+string-interpolation&type=Repositories&ref=searchresults)
-+ [Defining Methods](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+defining-methods&type=Repositories&ref=searchresults)
-+ [Methods and Arguments](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+methods-and-arguments&type=Repositories&ref=searchresults)
-+ [Methods and Arguments Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+methods-and-arguments-lab&type=Repositories&ref=searchresults)
-+ [Methods and Default Arguments](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+methods-and-default-arguments&type=Repositories&ref=searchresults)
-+ [Methods and Default Arguments Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+methods-and-default-arguments-lab&type=Repositories&ref=searchresults)
-+ [Return Values](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+return-values&type=Repositories&ref=searchresults)
-+ [Return Values Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+return-values-lab&type=Repositories&ref=searchresults)
-+ [Debugging with Pry](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+debugging-with-pry&type=Repositories&ref=searchresults)
-+ [Method Scope](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+method-scope&type=Repositories&ref=searchresults)
-+ [Method Scope Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+method-scope-lab&type=Repositories&ref=searchresults)
++ [About Variable Assignment]
++ [Variable Assignment Lab]
++ [String Interpolation]
++ [Defining Methods]
++ [Methods and Arguments]
++ [Methods and Arguments Lab]
++ [Methods and Default Arguments]
++ [Methods and Default Arguments Lab]
++ [Return Values]
++ [Return Values Lab]
++ [Debugging with Pry]
++ [Method Scope]
++ [Method Scope Lab]
 #### Booleans
-+ [Booleans and Truthiness in Ruby](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+booleans-and-truthiness-in-ruby&type=Repositories&ref=searchresults)
-+ [Boolean Operators](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+boolean-operators&type=Repositories&ref=searchresults)
-+ [Truthiness Code Challenge](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+truthiness-code-challenge&type=Repositories&ref=searchresults)
++ [Booleans and Truthiness in Ruby]
++ [Boolean Operators]
++ [Truthiness Code Challenge]
 #### Logic and Conditionals
-+ [If Statements](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+if-statements&type=Repositories&ref=searchresults)
-+ [If Statements Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+if-statements-lab&type=Repositories&ref=searchresults)
-+ [Ternary Operators and Statement Modifiers](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+ternary-operators-and-statement-modifiers&type=Repositories&ref=searchresults)
-+ [If Statements Quiz](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+if-statements-quiz&type=Repositories&ref=searchresults)
-+ [Case Statements](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+case-statements&type=Repositories&ref=searchresults)
-+ [Case Statements Quiz](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+case-statements-quiz&type=Repositories&ref=searchresults)
-+ [Logic and Conditionals Quiz](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+logic-and-conditionals-quiz&type=Repositories&ref=searchresults)
++ [If Statements]
++ [If Statements Lab]
++ [Ternary Operators and Statement Modifiers]
++ [If Statements Quiz]
++ [Case Statements]
++ [Case Statements Quiz]
++ [Logic and Conditionals Quiz]
 #### Looping
-+ [Intro to Loops](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+intro-to-loops&type=Repositories&ref=searchresults)
-+ [Looping](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+looping&type=Repositories&ref=searchresults)
-+ [Looping Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+looping-lab&type=Repositories&ref=searchresults)
-+ [Times](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+times&type=Repositories&ref=searchresults)
-+ [Looping Quiz](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+looping-quiz&type=Repositories&ref=searchresults)
-+ [While and Until Loops](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+while-and-until-loops&type=Repositories&ref=searchresults)
-+ [While and Until Loops Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+while-and-until-loops-lab&type=Repositories&ref=searchresults)
-+ [Countdown to Midnight Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+countdown-to-midnight-lab&type=Repositories&ref=searchresults)
++ [Intro to Loops]
++ [Looping]
++ [Looping Lab]
++ [Times]
++ [Looping Quiz]
++ [While and Until Loops]
++ [While and Until Loops Lab]
++ [Countdown to Midnight Lab]
 #### Arrays
-+ [Intro to Arrays](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+intro-to-arrays&type=Repositories&ref=searchresults)
-+ [Using Arrays](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+using-arrays&type=Repositories&ref=searchresults)
-+ [Using Arrays Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+using-arrays-lab&type=Repositories&ref=searchresults)
-+ [Arrays and Methods](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+arrays-and-methods&type=Repositories&ref=searchresults)
-+ [Arrays and Methods Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+arrays-and-methods-lab&type=Repositories&ref=searchresults)
++ [Intro to Arrays]
++ [Using Arrays]
++ [Using Arrays Lab]
++ [Arrays and Methods]
++ [Arrays and Methods Lab]
 #### Iteration
-+ [Iteration and Abstraction](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+iteration-and-abstraction&type=Repositories&ref=searchresults)
-+ [Intro to Ruby Iterators](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+intro-to-ruby-iterators&type=Repositories&ref=searchresults)
-+ [Square Array Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+square-array-lab&type=Repositories&ref=searchresults)
-+ [Badges and Schedules Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+badges-and-schedules-lab&type=Repositories&ref=searchresults)
-+ [Deli Counter Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+deli-counter-lab&type=Repositories&ref=searchresults)
-+ [Oxford Comma Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+oxford-comma-lab&type=Repositories&ref=searchresults)
-+ [Collect and Return Values](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+collect-and-return-values&type=Repositories&ref=searchresults)
-+ [Reverse Each Word Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+reverse-each-word-lab&type=Repositories&ref=searchresults)
-+ [Yield and Blocks](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+yield-and-blocks&type=Repositories&ref=searchresults)
-+ [Each Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+each-lab&type=Repositories&ref=searchresults)
-+ [Return from Yield Statements](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+return-from-yield-statements&type=Repositories&ref=searchresults)
-+ [Collect Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+collect-lab&type=Repositories&ref=searchresults)
-+ [Boolean Enumerators](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+boolean-enumerators&type=Repositories&ref=searchresults)
-+ [Search Enumerators](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+search-enumerators&type=Repositories&ref=searchresults)
-+ [My All? Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+my-all-lab&type=Repositories&ref=searchresults)
-+ [My Find Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+my-find-lab&type=Repositories&ref=searchresults)
-+ [Cartoon Collections Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+cartoon-collections-lab&type=Repositories&ref=searchresults)
-+ [Enumerators Code Challenge](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+enumerators-code-challenge&type=Repositories&ref=searchresults)
-+ [Prime? Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+prime-lab&type=Repositories&ref=searchresults)
-+ [Sorting ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sorting&type=Repositories&ref=searchresults)
-+ [Sorting Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sorting-lab&type=Repositories&ref=searchresults)
++ [Iteration and Abstraction]
++ [Intro to Ruby Iterators]
++ [Square Array Lab]
++ [Badges and Schedules Lab]
++ [Deli Counter Lab]
++ [Oxford Comma Lab]
++ [Collect and Return Values]
++ [Reverse Each Word Lab]
++ [Yield and Blocks]
++ [Each Lab]
++ [Return from Yield Statements]
++ [Collect Lab]
++ [Boolean Enumerators]
++ [Search Enumerators]
++ [My All? Lab]
++ [My Find Lab]
++ [Cartoon Collections Lab]
++ [Enumerators Code Challenge]
++ [Prime? Lab]
++ [Sorting ]
++ [Sorting Lab]
 #### Hashes
-+ [Introduction to Hashes](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+introduction-to-hashes&type=Repositories&ref=searchresults)
-+ [Using Hashes](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+using-hashes&type=Repositories&ref=searchresults)
-+ [Symbols](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+symbols&type=Repositories&ref=searchresults)
-+ [Hash Iteration with Each](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+hash-iteration-with-each&type=Repositories&ref=searchresults)
-+ [Hash Iteration with Collect](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+hash-iteration-with-collect&type=Repositories&ref=searchresults)
-+ [Hash Iteration Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+hash-iteration-lab&type=Repositories&ref=searchresults)
++ [Introduction to Hashes]
++ [Using Hashes]
++ [Symbols]
++ [Hash Iteration with Each]
++ [Hash Iteration with Collect]
++ [Hash Iteration Lab]
 #### Data Structures
-+ [Intro to Nested Hashes](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+intro-to-nested-hashes&type=Repositories&ref=searchresults)
-+ [Building Nested Hashes](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+building-nested-hashes&type=Repositories&ref=searchresults)
-+ [Building Nested Hashes Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+building-nested-hashes-lab&type=Repositories&ref=searchresults)
-+ [Nested Hashes Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+nested-hashes-lab&type=Repositories&ref=searchresults)
-+ [Multitype Collections Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+multitype-collections-lab&type=Repositories&ref=searchresults)
-+ [Nested Hash Iteration](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+nested-hash-iteration&type=Repositories&ref=searchresults)
-+ [Iterating over Nested Hashes Codealong](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+iterating-over-nested-hashes-codealong&type=Repositories&ref=searchresults)
-+ [Other Hashes Codealong](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+other-hashes-codealong&type=Repositories&ref=searchresults)
-+ [Hashes Manipulation Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+hashes-manipulation-lab&type=Repositories&ref=searchresults)
++ [Intro to Nested Hashes]
++ [Building Nested Hashes]
++ [Building Nested Hashes Lab]
++ [Nested Hashes Lab]
++ [Multitype Collections Lab]
++ [Nested Hash Iteration]
++ [Iterating over Nested Hashes Codealong]
++ [Other Hashes Codealong]
++ [Hashes Manipulation Lab]
 #### Regex
-+ [What's a Pattern](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+what-s-a-pattern&type=Repositories&ref=searchresults)
-+ [Regex Basics](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+regex-basics&type=Repositories&ref=searchresults)
-+ [Ruby Methods with Regex](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+ruby-methods-with-regex&type=Repositories&ref=searchresults)
-+ [Regex Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+regex-lab&type=Repositories&ref=searchresults)
++ [What's a Pattern]
++ [Regex Basics]
++ [Ruby Methods with Regex]
++ [Regex Lab]
 ## *Object Oriented Ruby*
 #### Intro to Object Orientation
-+ [Intro to Object Orientation](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+intro-to-object-orientation&type=Repositories&ref=searchresults)
++ [Intro to Object Orientation]
 #### Classes and Instances
-+ [Intro to Classes and Instances](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+intro-to-classes-and-instances&type=Repositories&ref=searchresults)
-+ [Classes and Instances Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+classes-and-instances-lab&type=Repositories&ref=searchresults)
++ [Intro to Classes and Instances]
++ [Classes and Instances Lab]
 #### Instance Methods
-+ [Instance Methods](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+instance-methods&type=Repositories&ref=searchresults)
-+ [Instance Methods Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+instance-methods-lab&type=Repositories&ref=searchresults)
++ [Instance Methods]
++ [Instance Methods Lab]
 #### Object Properties
-+ [Instance Variables](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+instance-variables&type=Repositories&ref=searchresults)
-+ [Object Attributes](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+object-attributes&type=Repositories&ref=searchresults)
-+ [Object Attributes Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+object-attributes-lab&type=Repositories&ref=searchresults)
-+ [Object Accessors](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+object-accessors&type=Repositories&ref=searchresults)
-+ [Meowing Cat](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+meowing-cat&type=Repositories&ref=searchresults)
++ [Instance Variables]
++ [Object Attributes]
++ [Object Attributes Lab]
++ [Object Accessors]
++ [Meowing Cat]
 #### Object Lifecycle
-+ [Object Initialization](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+object-initialization&type=Repositories&ref=searchresults)
-+ [Object Initialization Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+object-initialization-lab&type=Repositories&ref=searchresults)
-+ [OO Basics](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+oo-basics&type=Repositories&ref=searchresults)
-+ [OO Basics with Class Constants](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+oo-basics-with-class-constants&type=Repositories&ref=searchresults)
-+ [OO School Domain](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+oo-school-domain&type=Repositories&ref=searchresults)
++ [Object Initialization]
++ [Object Initialization Lab]
++ [OO Basics]
++ [OO Basics with Class Constants]
++ [OO School Domain]
 #### Object's Self
-+ [Self](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+self&type=Repositories&ref=searchresults)
-+ [OO Counting Sentences](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+oo-counting-sentences&type=Repositories&ref=searchresults)
++ [Self]
++ [OO Counting Sentences]
 #### Class Variables and Methods
-+ [Class Variables and Methods](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+class-variables-and-methods&type=Repositories&ref=searchresults)
-+ [Class Variables and Methods Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+class-variables-and-methods-lab&type=Repositories&ref=searchresults)
-+ [Private Methods](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+private-methods&type=Repositories&ref=searchresults)
++ [Class Variables and Methods]
++ [Class Variables and Methods Lab]
++ [Private Methods]
 #### Object Models
-+ [Remembering Objects](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+remembering-objects&type=Repositories&ref=searchresults)
-+ [Puppy Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+puppy-lab&type=Repositories&ref=searchresults)
-+ [Advanced Class Methods](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+advanced-class-methods&type=Repositories&ref=searchresults)
-+ [Advanced Class Methods Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+advanced-class-methods-lab&type=Repositories&ref=searchresults)
++ [Remembering Objects]
++ [Puppy Lab]
++ [Advanced Class Methods]
++ [Advanced Class Methods Lab]
 #### Object Labs
-+ [OO Email Parser](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+oo-email-parser&type=Repositories&ref=searchresults)
-+ [OO Anagram Detector](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+oo-anagram-detector&type=Repositories&ref=searchresults)
-+ [OO Cash Register](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+oo-cash-register&type=Repositories&ref=searchresults)
++ [OO Email Parser]
++ [OO Anagram Detector]
++ [OO Cash Register]
 #### Object Relationships
-+ [Intro to Object Relationships](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+intro-to-object-relationships&type=Repositories&ref=searchresults)
-+ [Belongs to Object Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+belongs-to-object-lab&type=Repositories&ref=searchresults)
-+ [Has Many Object](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+has-many-object&type=Repositories&ref=searchresults)
-+ [Has Many Object Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+has-many-object-lab&type=Repositories&ref=searchresults)
-+ [Collaborating Objects](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+collaborating-objects&type=Repositories&ref=searchresults)
-+ [Collaborating Objects Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+collaborating-objects-lab&type=Repositories&ref=searchresults)
-+ [Collaborating Objects Review](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+collaborating-objects-review&type=Repositories&ref=searchresults)
-+ [OO My Pets](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+oo-my-pets&type=Repositories&ref=searchresults)
-+ [OO Kickstarter](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+oo-kickstarter&type=Repositories&ref=searchresults)
-+ [OO Banking](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+oo-banking&type=Repositories&ref=searchresults)
-+ [Has Many Objects Through](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+has-many-objects-through&type=Repositories&ref=searchresults)
-+ [Has Many Objects Through Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+has-many-objects-through-lab&type=Repositories&ref=searchresults)
++ [Intro to Object Relationships]
++ [Belongs to Object Lab]
++ [Has Many Object]
++ [Has Many Object Lab]
++ [Collaborating Objects]
++ [Collaborating Objects Lab]
++ [Collaborating Objects Review]
++ [OO My Pets]
++ [OO Kickstarter]
++ [OO Banking]
++ [Has Many Objects Through]
++ [Has Many Objects Through Lab]
 #### Object Architecture
-+ [Intro to Inheritance](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+intro-to-inheritance&type=Repositories&ref=searchresults)
-+ [Intro to Inheritance Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+intro-to-inheritance-lab&type=Repositories&ref=searchresults)
-+ [Intro to Modules](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+intro-to-modules&type=Repositories&ref=searchresults)
-+ [Intro to Modules Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+intro-to-modules-lab&type=Repositories&ref=searchresults)
-+ [Super](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+super&type=Repositories&ref=searchresults)
-+ [Super Lab ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+super-lab&type=Repositories&ref=searchresults)
++ [Intro to Inheritance]
++ [Intro to Inheritance Lab]
++ [Intro to Modules]
++ [Intro to Modules Lab]
++ [Super]
++ [Super Lab ]
 #### Metaprogramming
-+ [Mass Assignment](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+mass-assignment&type=Repositories&ref=searchresults)
-+ [Mass Assignment and Metaprogramming](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+mass-assignment-and-metaprogramming&type=Repositories&ref=searchresults)
-+ [Mass Assignment Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+mass-assignment-lab&type=Repositories&ref=searchresults)
-+ [Custom Errors](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+custom-errors&type=Repositories&ref=searchresults)
-+ [OO Triangle](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+oo-triangle&type=Repositories&ref=searchresults)
++ [Mass Assignment]
++ [Mass Assignment and Metaprogramming]
++ [Mass Assignment Lab]
++ [Custom Errors]
++ [OO Triangle]
 #### Scraping
-+ [Gems and Bundler](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+gems-and-bundler&type=Repositories&ref=searchresults)
-+ [Scraping](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+scraping&type=Repositories&ref=searchresults)
-+ [Scraping Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+scraping-lab&type=Repositories&ref=searchresults)
-+ [Kickstarter Scraping Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+kickstarter-scraping-lab&type=Repositories&ref=searchresults)
++ [Gems and Bundler]
++ [Scraping]
++ [Scraping Lab]
++ [Kickstarter Scraping Lab]
 #### Final Projects
-+ [Music Library CLI](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+music-library-cli&type=Repositories&ref=searchresults)
-+ [Tic-Tac-Toe with AI](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+tic-tac-toe-with-ai&type=Repositories&ref=searchresults)
-+ [Student Scraper](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+student-scraper&type=Repositories&ref=searchresults)
-+ [CLI Data Gem Project](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+cli-data-gem-project&type=Repositories&ref=searchresults)
++ [Music Library CLI]
++ [Tic-Tac-Toe with AI]
++ [Student Scraper]
++ [CLI Data Gem Project]
 ## *SQL (Structured Query Language) *
 #### Topic Introduction
-+ [What is SQL ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+what-is-sql&type=Repositories&ref=searchresults)
++ [What is SQL ]
 #### Getting Started
-+ [SQL Intro and Installation](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sql-intro-and-installation&type=Repositories&ref=searchresults)
-+ [SQL Database Basics](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sql-database-basics&type=Repositories&ref=searchresults)
-+ [SQL Databases and Text Editors](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sql-databases-and-text-editors&type=Repositories&ref=searchresults)
-+ [SQL Data Types](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sql-data-types&type=Repositories&ref=searchresults)
-+ [SQL Inserting, Updating, and Selecting](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sql-inserting-updating-and-selecting&type=Repositories&ref=searchresults)
-+ [Basic SQL Queries](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+basic-sql-queries&type=Repositories&ref=searchresults)
-+ [SQL Aggregate Functions](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sql-aggregate-functions&type=Repositories&ref=searchresults)
-+ [SQL Aggregate Functions Lab ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sql-aggregate-functions-lab&type=Repositories&ref=searchresults)
-+ [SQL Bear Organizer Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sql-bear-organizer-lab&type=Repositories&ref=searchresults)
++ [SQL Intro and Installation]
++ [SQL Database Basics]
++ [SQL Databases and Text Editors]
++ [SQL Data Types]
++ [SQL Inserting, Updating, and Selecting]
++ [Basic SQL Queries]
++ [SQL Aggregate Functions]
++ [SQL Aggregate Functions Lab ]
++ [SQL Bear Organizer Lab]
 #### Table Relations
-+ [Edgar Codd and Table Relations](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+edgar-codd-and-table-relations&type=Repositories&ref=searchresults)
-+ [Table Relations](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+table-relations&type=Repositories&ref=searchresults)
-+ [SQL JOINS](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sql-joins&type=Repositories&ref=searchresults)
-+ [SQL Complex Joins](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sql-complex-joins&type=Repositories&ref=searchresults)
-+ [SQL Join Tables](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sql-join-tables&type=Repositories&ref=searchresults)
-+ [Grouping and Sorting Data](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+grouping-and-sorting-data&type=Repositories&ref=searchresults)
-+ [SQL Crowdfunding Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sql-crowdfunding-lab&type=Repositories&ref=searchresults)
-+ [SQL Library Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sql-library-lab&type=Repositories&ref=searchresults)
++ [Edgar Codd and Table Relations]
++ [Table Relations]
++ [SQL JOINS]
++ [SQL Complex Joins]
++ [SQL Join Tables]
++ [Grouping and Sorting Data]
++ [SQL Crowdfunding Lab]
++ [SQL Library Lab]
 ## *ORMs and ActiveRecord*
 #### ORMs
-+ [Why an ORM is Useful](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+why-an-orm-is-useful&type=Repositories&ref=searchresults)
-+ [Pokemon Scraper Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+pokemon-scraper-lab&type=Repositories&ref=searchresults)
-+ [Mapping Ruby Classes to Database Tables](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+mapping-ruby-classes-to-database-tables&type=Repositories&ref=searchresults)
-+ [Mapping Classes to Tables Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+mapping-classes-to-tables-lab&type=Repositories&ref=searchresults)
-+ [Mapping Database Tables to Ruby Objects](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+mapping-database-tables-to-ruby-objects&type=Repositories&ref=searchresults)
-+ [Mapping Database Rows to Objects Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+mapping-database-rows-to-objects-lab&type=Repositories&ref=searchresults)
-+ [Updating Records in an ORM](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+updating-records-in-an-orm&type=Repositories&ref=searchresults)
-+ [Updating Records in an ORM Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+updating-records-in-an-orm-lab&type=Repositories&ref=searchresults)
-+ [Preventing Record Duplication](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+preventing-record-duplication&type=Repositories&ref=searchresults)
-+ [ORMs Lab: Bringing It All Together](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+orms-lab-bringing-it-all-together&type=Repositories&ref=searchresults)
-+ [Dynamic ORMs](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+dynamic-orms&type=Repositories&ref=searchresults)
-+ [Dynamic ORMs with Inheritance](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+dynamic-orms-with-inheritance&type=Repositories&ref=searchresults)
-+ [Dynamic ORM Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+dynamic-orm-lab&type=Repositories&ref=searchresults)
++ [Why an ORM is Useful]
++ [Pokemon Scraper Lab]
++ [Mapping Ruby Classes to Database Tables]
++ [Mapping Classes to Tables Lab]
++ [Mapping Database Tables to Ruby Objects]
++ [Mapping Database Rows to Objects Lab]
++ [Updating Records in an ORM]
++ [Updating Records in an ORM Lab]
++ [Preventing Record Duplication]
++ [ORMs Lab: Bringing It All Together]
++ [Dynamic ORMs]
++ [Dynamic ORMs with Inheritance]
++ [Dynamic ORM Lab]
 #### ActiveRecord
-+ [ActiveRecord Mechanics](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+activerecord-mechanics&type=Repositories&ref=searchresults)
-+ [Translating from ORM to ActiveRecord](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+translating-from-orm-to-activerecord&type=Repositories&ref=searchresults)
-+ [Intro to Rake](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+intro-to-rake&type=Repositories&ref=searchresults)
-+ [Mechanics of Migrations](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+mechanics-of-migrations&type=Repositories&ref=searchresults)
-+ [Writing Our Own Migrations](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+writing-our-own-migrations&type=Repositories&ref=searchresults)
-+ [ActiveRecord CRUD Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+activerecord-crud-lab&type=Repositories&ref=searchresults)
-+ [Migrations and Active Record Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+migrations-and-active-record-lab&type=Repositories&ref=searchresults)
-+ [Advanced Finding Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+advanced-finding-lab&type=Repositories&ref=searchresults)
++ [ActiveRecord Mechanics]
++ [Translating from ORM to ActiveRecord]
++ [Intro to Rake]
++ [Mechanics of Migrations]
++ [Writing Our Own Migrations]
++ [ActiveRecord CRUD Lab]
++ [Migrations and Active Record Lab]
++ [Advanced Finding Lab]
 #### Associations
-+ [ActiveRecord Associations](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+activerecord-associations&type=Repositories&ref=searchresults)
-+ [ActiveRecord Associations Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+activerecord-associations-lab&type=Repositories&ref=searchresults)
-+ [ActiveRecord Associations Lab II ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+activerecord-associations-lab-ii&type=Repositories&ref=searchresults)
++ [ActiveRecord Associations]
++ [ActiveRecord Associations Lab]
++ [ActiveRecord Associations Lab II ]
 ## *Rack*
 #### Rack and the Internet
-+ [How the Internet Works](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+how-the-internet-works&type=Repositories&ref=searchresults)
-+ [Increasing Layers of Abstraction](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+increasing-layers-of-abstraction&type=Repositories&ref=searchresults)
-+ [Inspecting the Web with Rack](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+inspecting-the-web-with-rack&type=Repositories&ref=searchresults)
-+ [Dynamic Web Apps with Rack ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+dynamic-web-apps-with-rack&type=Repositories&ref=searchresults)
-+ [Rack Responses Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+rack-responses-lab&type=Repositories&ref=searchresults)
-+ [The HTTP Request](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+the-http-request&type=Repositories&ref=searchresults)
-+ [Rack Routes and GET Params Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+rack-routes-and-get-params-lab&type=Repositories&ref=searchresults)
-+ [Dynamic URL Routes](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+dynamic-url-routes&type=Repositories&ref=searchresults)
-+ [HTTP Status Codes](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+http-status-codes&type=Repositories&ref=searchresults)
-+ [Dynamic URLs and Status Codes Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+dynamic-urls-and-status-codes-lab&type=Repositories&ref=searchresults)
++ [How the Internet Works]
++ [Increasing Layers of Abstraction]
++ [Inspecting the Web with Rack]
++ [Dynamic Web Apps with Rack ]
++ [Rack Responses Lab]
++ [The HTTP Request]
++ [Rack Routes and GET Params Lab]
++ [Dynamic URL Routes]
++ [HTTP Status Codes]
++ [Dynamic URLs and Status Codes Lab]
 ## *Sinatra*
 #### Sinatra Basics
-+ [What is Sinatra?](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+what-is-sinatra&type=Repositories&ref=searchresults)
-+ [Sinatra from Scratch](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sinatra-from-scratch&type=Repositories&ref=searchresults)
-+ [Sinatra Basics](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sinatra-basics&type=Repositories&ref=searchresults)
-+ [Using the Shotgun Development Server](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+using-the-shotgun-development-server&type=Repositories&ref=searchresults)
-+ [Sinatra "Hello World" Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sinatra-hello-world-lab&type=Repositories&ref=searchresults)
-+ [Sinatra Routes](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sinatra-routes&type=Repositories&ref=searchresults)
-+ [Sinatra Basic Routes Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sinatra-basic-routes-lab&type=Repositories&ref=searchresults)
++ [What is Sinatra?]
++ [Sinatra from Scratch]
++ [Sinatra Basics]
++ [Using the Shotgun Development Server]
++ [Sinatra "Hello World" Lab]
++ [Sinatra Routes]
++ [Sinatra Basic Routes Lab]
 #### MVC and Forms
-+ [Intro to MVC](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+intro-to-mvc&type=Repositories&ref=searchresults)
-+ [Sinatra MVC File Structure](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sinatra-mvc-file-structure&type=Repositories&ref=searchresults)
-+ [Sinatra Views](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sinatra-views&type=Repositories&ref=searchresults)
-+ [Sinatra Basic Views Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sinatra-basic-views-lab&type=Repositories&ref=searchresults)
-+ [Using ERB](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+using-erb&type=Repositories&ref=searchresults)
-+ [Sinatra Views Lab II](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sinatra-views-lab-ii&type=Repositories&ref=searchresults)
++ [Intro to MVC]
++ [Sinatra MVC File Structure]
++ [Sinatra Views]
++ [Sinatra Basic Views Lab]
++ [Using ERB]
++ [Sinatra Views Lab II]
 #### Forms
-+ [Intro to Capybara Tests](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+intro-to-capybara-tests&type=Repositories&ref=searchresults)
-+ [Dynamic Routes](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+dynamic-routes&type=Repositories&ref=searchresults)
-+ [Dynamic Routes Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+dynamic-routes-lab&type=Repositories&ref=searchresults)
-+ [HTML Forms and Params](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+html-forms-and-params&type=Repositories&ref=searchresults)
-+ [Passing Data Between Views and Controllers](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+passing-data-between-views-and-controllers&type=Repositories&ref=searchresults)
-+ [Basic Sinatra Forms Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+basic-sinatra-forms-lab&type=Repositories&ref=searchresults)
-+ [Layouts and Yield](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+layouts-and-yield&type=Repositories&ref=searchresults)
-+ [Integrating Models for a Full MVC](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+integrating-models-for-a-full-mvc&type=Repositories&ref=searchresults)
-+ [Sinatra MVC Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sinatra-mvc-lab&type=Repositories&ref=searchresults)
-+ [Sinatra Basic Forms Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sinatra-basic-forms-lab&type=Repositories&ref=searchresults)
-+ [Sinatra Nested Forms](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sinatra-nested-forms&type=Repositories&ref=searchresults)
-+ [Sinatra Nested Forms Lab: Pirates!](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sinatra-nested-forms-lab-pirates&type=Repositories&ref=searchresults)
-+ [Sinatra Nested Forms Lab: Superheros!](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sinatra-nested-forms-lab-superheros&type=Repositories&ref=searchresults)
++ [Intro to Capybara Tests]
++ [Dynamic Routes]
++ [Dynamic Routes Lab]
++ [HTML Forms and Params]
++ [Passing Data Between Views and Controllers]
++ [Basic Sinatra Forms Lab]
++ [Layouts and Yield]
++ [Integrating Models for a Full MVC]
++ [Sinatra MVC Lab]
++ [Sinatra Basic Forms Lab]
++ [Sinatra Nested Forms]
++ [Sinatra Nested Forms Lab: Pirates!]
++ [Sinatra Nested Forms Lab: Superheros!]
 #### Sessions
-+ [Sessions and Cookies](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sessions-and-cookies&type=Repositories&ref=searchresults)
-+ [Mechanics of Sessions](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+mechanics-of-sessions&type=Repositories&ref=searchresults)
-+ [Sinatra Sessions Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sinatra-sessions-lab&type=Repositories&ref=searchresults)
-+ [Sinatra Sessions Codealong](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sinatra-sessions-codealong&type=Repositories&ref=searchresults)
++ [Sessions and Cookies]
++ [Mechanics of Sessions]
++ [Sinatra Sessions Lab]
++ [Sinatra Sessions Codealong]
 #### ActiveRecord
-+ [ActiveRecord Setup in Sinatra](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+activerecord-setup-in-sinatra&type=Repositories&ref=searchresults)
-+ [ActiveRecord in Sinatra](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+activerecord-in-sinatra&type=Repositories&ref=searchresults)
-+ [Sinatra ActiveRecord CRUD](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sinatra-activerecord-crud&type=Repositories&ref=searchresults)
-+ [User Authentication in Sinatra](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+user-authentication-in-sinatra&type=Repositories&ref=searchresults)
-+ [Sinatra Sessions Lab- User Logins](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sinatra-sessions-lab-user-logins&type=Repositories&ref=searchresults)
-+ [Securing Passwords in Sinatra](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+securing-passwords-in-sinatra&type=Repositories&ref=searchresults)
-+ [Secure Password Lab ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+secure-password-lab&type=Repositories&ref=searchresults)
-+ [Sinatra RESTful Routes](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sinatra-restful-routes&type=Repositories&ref=searchresults)
-+ [Sinatra RESTful Routes Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sinatra-restful-routes-lab&type=Repositories&ref=searchresults)
-+ [Using Tux in Sinatra with ActiveRecord](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+using-tux-in-sinatra-with-activerecord&type=Repositories&ref=searchresults)
-+ [ActiveRecord Associations in Sinatra](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+activerecord-associations-in-sinatra&type=Repositories&ref=searchresults)
-+ [ActiveRecord Associations: Join Tables](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+activerecord-associations-join-tables&type=Repositories&ref=searchresults)
-+ [Sinatra Multiple Controllers](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sinatra-multiple-controllers&type=Repositories&ref=searchresults)
-+ [Sinatra Complex Forms Associations](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sinatra-complex-forms-associations&type=Repositories&ref=searchresults)
-+ [Sinatra Playlister](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sinatra-playlister&type=Repositories&ref=searchresults)
-+ [Sinatra NYC](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sinatra-nyc&type=Repositories&ref=searchresults)
++ [ActiveRecord Setup in Sinatra]
++ [ActiveRecord in Sinatra]
++ [Sinatra ActiveRecord CRUD]
++ [User Authentication in Sinatra]
++ [Sinatra Sessions Lab- User Logins]
++ [Securing Passwords in Sinatra]
++ [Secure Password Lab ]
++ [Sinatra RESTful Routes]
++ [Sinatra RESTful Routes Lab]
++ [Using Tux in Sinatra with ActiveRecord]
++ [ActiveRecord Associations in Sinatra]
++ [ActiveRecord Associations: Join Tables]
++ [Sinatra Multiple Controllers]
++ [Sinatra Complex Forms Associations]
++ [Sinatra Playlister]
++ [Sinatra NYC]
 #### Sinatra Project Mode
-+ [Fwitter](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+fwitter&type=Repositories&ref=searchresults)
-+ [Sinatra Portfolio Project](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sinatra-assessment&type=Repositories&ref=searchresults)
++ [Fwitter]
++ [Sinatra Portfolio Project]
 ## *Rails*
 #### Introduction to Rails
-+ [Intro to Rails ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+intro-to-rails&type=Repositories&ref=searchresults)
-+ [Rails Application Basics](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+rails-application-basics&type=Repositories&ref=searchresults)
-+ [Rails MVC](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+rails-mvc&type=Repositories&ref=searchresults)
-+ [Rails Static Request](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+rails-static-request&type=Repositories&ref=searchresults)
-+ [Rails Hello World](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+rails-hello-world&type=Repositories&ref=searchresults)
-+ [Video Review: Intro to Rails](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+video-review-intro-to-rails&type=Repositories&ref=searchresults)
++ [Intro to Rails ]
++ [Rails Application Basics]
++ [Rails MVC]
++ [Rails Static Request]
++ [Rails Hello World]
++ [Video Review: Intro to Rails]
 #### Rails Models Basics
-+ [ActiveRecord Models and Rails](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+activerecord-models-and-rails&type=Repositories&ref=searchresults)
-+ [ActiveRecord Models and Rails Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+activerecord-models-and-rails-lab&type=Repositories&ref=searchresults)
++ [ActiveRecord Models and Rails]
++ [ActiveRecord Models and Rails Lab]
 #### Intro to REST
-+ [Intro to Rest](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+intro-to-rest&type=Repositories&ref=searchresults)
-+ [RESTful Action Index Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+restful-action-index-lab&type=Repositories&ref=searchresults)
-+ [Rails Dynamic Request](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+rails-dynamic-request&type=Repositories&ref=searchresults)
-+ [Rails Dynamic Request Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+rails-dynamic-request-lab&type=Repositories&ref=searchresults)
++ [Intro to Rest]
++ [RESTful Action Index Lab]
++ [Rails Dynamic Request]
++ [Rails Dynamic Request Lab]
 #### Intro to ActionView
-+ [Rails URL Helpers](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+rails-url-helpers&type=Repositories&ref=searchresults)
-+ [Rails URL Helpers Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+rails-url-helpers-lab&type=Repositories&ref=searchresults)
-+ [Rails form_tag](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+rails-form_tag&type=Repositories&ref=searchresults)
-+ [Rails form_tag lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+rails-form_tag-lab&type=Repositories&ref=searchresults)
++ [Rails URL Helpers]
++ [Rails URL Helpers Lab]
++ [Rails form_tag]
++ [Rails form_tag lab]
 #### CRUD with Rails
-+ [Create Action](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+create-action&type=Repositories&ref=searchresults)
-+ [Create Action Lab ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+create-action-lab&type=Repositories&ref=searchresults)
-+ [Index, Show, New, Create Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+index-show-new-create-lab&type=Repositories&ref=searchresults)
-+ [Edit/Update Action](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+edit-update-action&type=Repositories&ref=searchresults)
-+ [form_for on Edit](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+form_for-on-edit&type=Repositories&ref=searchresults)
-+ [Strong Params Basics](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+strong-params-basics&type=Repositories&ref=searchresults)
-+ [Rails Forms Overview](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+rails-forms-overview&type=Repositories&ref=searchresults)
-+ [form_for lab ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+form_for-lab&type=Repositories&ref=searchresults)
-+ [Rails Generators](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+rails-generators&type=Repositories&ref=searchresults)
-+ [CRU Rails Lab ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+cru-rails-lab&type=Repositories&ref=searchresults)
-+ [Resource Generator/ Routes](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+resource-generator-routes&type=Repositories&ref=searchresults)
-+ [Rails Blog Scaffold](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+rails-blog-scaffold&type=Repositories&ref=searchresults)
++ [Create Action]
++ [Create Action Lab ]
++ [Index, Show, New, Create Lab]
++ [Edit/Update Action]
++ [form_for on Edit]
++ [Strong Params Basics]
++ [Rails Forms Overview]
++ [form_for lab ]
++ [Rails Generators]
++ [CRU Rails Lab ]
++ [Resource Generator/ Routes]
++ [Rails Blog Scaffold]
 #### Validations and Forms
-+ [ActiveRecord Validations](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+activerecord-validations&type=Repositories&ref=searchresults)
-+ [ActiveRecord Validations Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+activerecord-validations-lab&type=Repositories&ref=searchresults)
-+ [Validations in Controller Actions](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+validations-in-controller-actions&type=Repositories&ref=searchresults)
-+ [Validations in Controller Actions Lab ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+validations-in-controller-actions-lab&type=Repositories&ref=searchresults)
-+ [Validations with form_tag](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+validations-with-form_tag&type=Repositories&ref=searchresults)
-+ [Validations with form_tag lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+validations-with-form_tag-lab&type=Repositories&ref=searchresults)
-+ [Validations with form_for](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+validations-with-form_for&type=Repositories&ref=searchresults)
-+ [Delete forms](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+delete-forms&type=Repositories&ref=searchresults)
-+ [Rails Testing](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+rails-testing&type=Repositories&ref=searchresults)
-+ [CRUD with Validations](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+crud-with-validations&type=Repositories&ref=searchresults)
-+ [Rails Blog Associations and Validations](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+rails-blog-associations-and-validations&type=Repositories&ref=searchresults)
++ [ActiveRecord Validations]
++ [ActiveRecord Validations Lab]
++ [Validations in Controller Actions]
++ [Validations in Controller Actions Lab ]
++ [Validations with form_tag]
++ [Validations with form_tag lab]
++ [Validations with form_for]
++ [Delete forms]
++ [Rails Testing]
++ [CRUD with Validations]
++ [Rails Blog Associations and Validations]
 #### Rails Review: TodoMVC 1
-+ [TodoMVC 1: Assets and Managing Lists](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+todomvc-1-assets-and-managing-lists&type=Repositories&ref=searchresults)
++ [TodoMVC 1: Assets and Managing Lists]
 #### Associations and Rails
-+ [Activerecord Associations Review](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+activerecord-associations-review&type=Repositories&ref=searchresults)
-+ [Join The Fun Rails Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+join-the-fun-rails-lab&type=Repositories&ref=searchresults)
-+ [Flatiron Bnb Associations Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+flatiron-bnb-associations-lab&type=Repositories&ref=searchresults)
-+ [ActiveRecord Lifecycle Methods](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+activerecord-lifecycle-methods&type=Repositories&ref=searchresults)
-+ [Flatiron Bnb Methods Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+flatiron-bnb-methods-lab&type=Repositories&ref=searchresults)
-+ [Displaying Associations Data](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+displaying-associations-data&type=Repositories&ref=searchresults)
-+ [Displaying Associations Data Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+displaying-associations-data-lab&type=Repositories&ref=searchresults)
-+ [Forms and Basic Association ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+forms-and-basic-association&type=Repositories&ref=searchresults)
-+ [Forms and Basic Associations Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+forms-and-basic-associations-lab&type=Repositories&ref=searchresults)
-+ [Basic Nested Forms](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+basic-nested-forms&type=Repositories&ref=searchresults)
-+ [Basic Nested Forms Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+basic-nested-forms-lab&type=Repositories&ref=searchresults)
-+ [Displaying Has Many Through ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+displaying-has-many-through&type=Repositories&ref=searchresults)
-+ [Displaying Has Many Through Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+displaying-has-many-through-lab&type=Repositories&ref=searchresults)
-+ [Has Many Through in Forms](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+has-many-through-in-forms&type=Repositories&ref=searchresults)
-+ [Has Many Through in Forms Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+has-many-through-in-forms-lab&type=Repositories&ref=searchresults)
-+ [Rails Blog: Complex Nested Forms Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+rails-blog-complex-nested-forms-lab&type=Repositories&ref=searchresults)
++ [Activerecord Associations Review]
++ [Join The Fun Rails Lab]
++ [Flatiron Bnb Associations Lab]
++ [ActiveRecord Lifecycle Methods]
++ [Flatiron Bnb Methods Lab]
++ [Displaying Associations Data]
++ [Displaying Associations Data Lab]
++ [Forms and Basic Association ]
++ [Forms and Basic Associations Lab]
++ [Basic Nested Forms]
++ [Basic Nested Forms Lab]
++ [Displaying Has Many Through ]
++ [Displaying Has Many Through Lab]
++ [Has Many Through in Forms]
++ [Has Many Through in Forms Lab]
++ [Rails Blog: Complex Nested Forms Lab]
 #### Layouts and Partials
-+ [Layouts And Templates in Rails](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+layouts-and-templates-in-rails&type=Repositories&ref=searchresults)
-+ [Layouts And Templates in Rails Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+layouts-and-templates-in-rails-lab&type=Repositories&ref=searchresults)
-+ [Simple Partials ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+simple-partials&type=Repositories&ref=searchresults)
-+ [Simple Partials Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+simple-partials-lab&type=Repositories&ref=searchresults)
-+ [Partial with Locals ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+partial-with-locals&type=Repositories&ref=searchresults)
-+ [Partial with Locals Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+partial-with-locals-lab&type=Repositories&ref=searchresults)
-+ [Flatiron Kitchen](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+flatiron-kitchen&type=Repositories&ref=searchresults)
-+ [Rendering Collections](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+rendering-collections&type=Repositories&ref=searchresults)
-+ [Rendering Collections Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+rendering-collections-lab&type=Repositories&ref=searchresults)
-+ [Programmer Partials Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+programmer-partials-lab&type=Repositories&ref=searchresults)
++ [Layouts And Templates in Rails]
++ [Layouts And Templates in Rails Lab]
++ [Simple Partials ]
++ [Simple Partials Lab]
++ [Partial with Locals ]
++ [Partial with Locals Lab]
++ [Flatiron Kitchen]
++ [Rendering Collections]
++ [Rendering Collections Lab]
++ [Programmer Partials Lab]
 #### Refactoring with Helpers and Model Methods
-+ [Refresher On MVC](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+refresher-on-mvc&type=Repositories&ref=searchresults)
-+ [Refactoring Views With Helpers](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+refactoring-views-with-helpers&type=Repositories&ref=searchresults)
-+ [Refactoring Views With Helpers Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+refactoring-views-with-helpers-lab&type=Repositories&ref=searchresults)
-+ [Model Class Methods](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+model-class-methods&type=Repositories&ref=searchresults)
-+ [Model Class Methods Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+model-class-methods-lab&type=Repositories&ref=searchresults)
++ [Refresher On MVC]
++ [Refactoring Views With Helpers]
++ [Refactoring Views With Helpers Lab]
++ [Model Class Methods]
++ [Model Class Methods Lab]
 #### Routes and Resources
-+ [Routing and Nested Resources](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+routing-and-nested-resources&type=Repositories&ref=searchresults)
-+ [Routing and Nested Resources Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+routing-and-nested-resources-lab&type=Repositories&ref=searchresults)
-+ [Modifying Nested Resources](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+modifying-nested-resources&type=Repositories&ref=searchresults)
-+ [Modifying Nested Resources Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+modifying-nested-resources-lab&type=Repositories&ref=searchresults)
-+ [Namespaced Routes ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+namespaced-routes&type=Repositories&ref=searchresults)
-+ [Namespaced Routes Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+namespaced-routes-lab&type=Repositories&ref=searchresults)
-+ [Rails Pollywog Ranch Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+rails-pollywog-ranch-lab&type=Repositories&ref=searchresults)
++ [Routing and Nested Resources]
++ [Routing and Nested Resources Lab]
++ [Modifying Nested Resources]
++ [Modifying Nested Resources Lab]
++ [Namespaced Routes ]
++ [Namespaced Routes Lab]
++ [Rails Pollywog Ranch Lab]
 #### Rails Review: TodoMVC 2
-+ [TodoMVC 2: Lists have Items](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+todomvc-2-lists-have-items&type=Repositories&ref=searchresults)
-+ [TodoMVC 3: Mark Items Complete](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+todomvc-3-mark-items-complete&type=Repositories&ref=searchresults)
-+ [TodoMVC 4: Refactoring with Partials and Helpers ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+todomvc-4-refactoring-with-partials-and-helpers&type=Repositories&ref=searchresults)
-+ [TodoMVC 5: Deleting Items](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+todomvc-5-deleting-items&type=Repositories&ref=searchresults)
++ [TodoMVC 2: Lists have Items]
++ [TodoMVC 3: Mark Items Complete]
++ [TodoMVC 4: Refactoring with Partials and Helpers ]
++ [TodoMVC 5: Deleting Items]
 #### Authentication
-+ [Cookies And Sessions ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+cookies-and-sessions&type=Repositories&ref=searchresults)
-+ [Cookies And Sessions Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+cookies-and-sessions-lab&type=Repositories&ref=searchresults)
-+ [Login Required ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+login-required&type=Repositories&ref=searchresults)
-+ [Login Required Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+login-required-lab&type=Repositories&ref=searchresults)
-+ [Sessions Controller](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sessions-controller&type=Repositories&ref=searchresults)
-+ [Sessions Controller Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sessions-controller-lab&type=Repositories&ref=searchresults)
-+ [Using has_secure Password ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+using-has_secure-password&type=Repositories&ref=searchresults)
-+ [Using has_secure Password Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+using-has_secure-password-lab&type=Repositories&ref=searchresults)
-+ [Omniauth ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+omniauth&type=Repositories&ref=searchresults)
-+ [Omniauth Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+omniauth-lab&type=Repositories&ref=searchresults)
-+ [Authentication And Authorization With Gems](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+authentication-and-authorization-with-gems&type=Repositories&ref=searchresults)
-+ [Devise](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+devise&type=Repositories&ref=searchresults)
-+ [Devise Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+devise-lab&type=Repositories&ref=searchresults)
-+ [Cancan ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+cancan&type=Repositories&ref=searchresults)
-+ [Cancan Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+cancan-lab&type=Repositories&ref=searchresults)
-+ [Devise Roles ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+devise-roles&type=Repositories&ref=searchresults)
-+ [Devise Roles Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+devise-roles-lab&type=Repositories&ref=searchresults)
-+ [Devise and Pundit](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+devise-and-pundit&type=Repositories&ref=searchresults)
-+ [Devise and Pundit Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+devise-and-pundit-lab&type=Repositories&ref=searchresults)
-+ [Rails Amusement Park Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+rails-amusement-park-lab&type=Repositories&ref=searchresults)
++ [Cookies And Sessions ]
++ [Cookies And Sessions Lab]
++ [Login Required ]
++ [Login Required Lab]
++ [Sessions Controller]
++ [Sessions Controller Lab]
++ [Using has_secure Password ]
++ [Using has_secure Password Lab]
++ [Omniauth ]
++ [Omniauth Lab]
++ [Authentication And Authorization With Gems]
++ [Devise]
++ [Devise Lab]
++ [Cancan ]
++ [Cancan Lab]
++ [Devise Roles ]
++ [Devise Roles Lab]
++ [Devise and Pundit]
++ [Devise and Pundit Lab]
++ [Rails Amusement Park Lab]
 #### Rails Project Mode
-+ [Flatiron Store Project](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+flatiron-store-project&type=Repositories&ref=searchresults)
-+ [Rails Portfolio Project](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+rails-assessment&type=Repositories&ref=searchresults)
++ [Flatiron Store Project]
++ [Rails Portfolio Project]
 ## *Javascript*
 #### Javascript Basics
-+ [Javascript Basics ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+javascript-basics&type=Repositories&ref=searchresults)
-+ [Intro To Variables in JS](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+intro-to-variables-in-js&type=Repositories&ref=searchresults)
-+ [Intro To Data Types in JS](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+intro-to-data-types-in-js&type=Repositories&ref=searchresults)
-+ [ Primitive Data Types And Objects in JS](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+primitive-data-types-and-objects-in-js&type=Repositories&ref=searchresults)
-+ [Strings in JS](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+strings-in-js&type=Repositories&ref=searchresults)
-+ [Math in JS](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+math-in-js&type=Repositories&ref=searchresults)
-+ [Functions in JS](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+functions-in-js&type=Repositories&ref=searchresults)
-+ [Functions in JS Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+functions-in-js-lab&type=Repositories&ref=searchresults)
-+ [Javascript Debugging with Mocha](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+javascript-debugging-with-mocha&type=Repositories&ref=searchresults)
-+ [Javascript Intro to Mocha](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+javascript-intro-to-mocha&type=Repositories&ref=searchresults)
-+ [Js Scope](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+js-scope&type=Repositories&ref=searchresults)
-+ [Intro To Comparison Operators in JS](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+intro-to-comparison-operators-in-js&type=Repositories&ref=searchresults)
-+ [Intro To Flow Control in JS](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+intro-to-flow-control-in-js&type=Repositories&ref=searchresults)
-+ [Intro To Arrays in JS](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+intro-to-arrays-in-js&type=Repositories&ref=searchresults)
-+ [JS Deli Counter Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+js-deli-counter-lab&type=Repositories&ref=searchresults)
-+ [Intro To Looping in JS](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+intro-to-looping-in-js&type=Repositories&ref=searchresults)
-+ [JS Beatles Loops Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+js-beatles-loops-lab&type=Repositories&ref=searchresults)
-+ [Hashes in JS](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+hashes-in-js&type=Repositories&ref=searchresults)
-+ [Hashes in JS Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+hashes-in-js-lab&type=Repositories&ref=searchresults)
-+ [Hoisting](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+hoisting&type=Repositories&ref=searchresults)
-+ [JS Basics Online Shopping Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+js-basics-online-shopping-lab&type=Repositories&ref=searchresults)
++ [Javascript Basics ]
++ [Intro To Variables in JS]
++ [Intro To Data Types in JS]
++ [ Primitive Data Types And Objects in JS]
++ [Strings in JS]
++ [Math in JS]
++ [Functions in JS]
++ [Functions in JS Lab]
++ [Javascript Debugging with Mocha]
++ [Javascript Intro to Mocha]
++ [Js Scope]
++ [Intro To Comparison Operators in JS]
++ [Intro To Flow Control in JS]
++ [Intro To Arrays in JS]
++ [JS Deli Counter Lab]
++ [Intro To Looping in JS]
++ [JS Beatles Loops Lab]
++ [Hashes in JS]
++ [Hashes in JS Lab]
++ [Hoisting]
++ [JS Basics Online Shopping Lab]
 #### jQuery
-+ [JS Libraries](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+js-libraries&type=Repositories&ref=searchresults)
-+ [Modifying HTML with jQuery](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+modifying-html-with-jquery&type=Repositories&ref=searchresults)
-+ [Modifying HTML with jQuery Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+modifying-html-with-jquery-lab&type=Repositories&ref=searchresults)
-+ [Document Ready](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+document-ready&type=Repositories&ref=searchresults)
-+ [The DOM](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+the-dom&type=Repositories&ref=searchresults)
-+ [jQuery Selectors ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+jquery-selectors&type=Repositories&ref=searchresults)
-+ [jQuery Selectors Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+jquery-selectors-lab&type=Repositories&ref=searchresults)
-+ [jQuery Methods](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+jquery-methods&type=Repositories&ref=searchresults)
-+ [jQuery Event Listeners ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+jquery-event-listeners&type=Repositories&ref=searchresults)
-+ [This](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+this&type=Repositories&ref=searchresults)
-+ [jQuery Basics Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+jquery-basics-lab&type=Repositories&ref=searchresults)
-+ [Js Anonymous Functions](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+js-anonymous-functions&type=Repositories&ref=searchresults)
-+ [JS Anonymous Functions Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+js-anonymous-functions-lab&type=Repositories&ref=searchresults)
-+ [jQuery Iterators](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+jquery-iterators&type=Repositories&ref=searchresults)
-+ [Prevent Default](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+prevent-default&type=Repositories&ref=searchresults)
-+ [Prevent Default Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+prevent-default-lab&type=Repositories&ref=searchresults)
-+ [Stop Propogation](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+stop-propogation&type=Repositories&ref=searchresults)
-+ [Stop Propogation Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+stop-propogation-lab&type=Repositories&ref=searchresults)
-+ [AJAX and Callbacks](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+ajax-and-callbacks&type=Repositories&ref=searchresults)
-+ [AJAX and Callbacks Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+ajax-and-callbacks-lab&type=Repositories&ref=searchresults)
-+ [JS Order Of Operations ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+js-order-of-operations&type=Repositories&ref=searchresults)
-+ [Lazy Loader Lab ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+lazy-loader-lab&type=Repositories&ref=searchresults)
-+ [APIs and JSON ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+apis-and-json&type=Repositories&ref=searchresults)
-+ [Github API Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+github-api-lab&type=Repositories&ref=searchresults)
-+ [Spotify API Lab ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+spotify-api-lab&type=Repositories&ref=searchresults)
-+ [Weather Underground API Lab ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+weather-underground-api-lab&type=Repositories&ref=searchresults)
++ [JS Libraries]
++ [Modifying HTML with jQuery]
++ [Modifying HTML with jQuery Lab]
++ [Document Ready]
++ [The DOM]
++ [jQuery Selectors ]
++ [jQuery Selectors Lab]
++ [jQuery Methods]
++ [jQuery Event Listeners ]
++ [This]
++ [jQuery Basics Lab]
++ [Js Anonymous Functions]
++ [JS Anonymous Functions Lab]
++ [jQuery Iterators]
++ [Prevent Default]
++ [Prevent Default Lab]
++ [Stop Propogation]
++ [Stop Propogation Lab]
++ [AJAX and Callbacks]
++ [AJAX and Callbacks Lab]
++ [JS Order Of Operations ]
++ [Lazy Loader Lab ]
++ [APIs and JSON ]
++ [Github API Lab]
++ [Spotify API Lab ]
++ [Weather Underground API Lab ]
 #### Object Oriented Javascript
-+ [Object Oriented Javascript](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+object-oriented-javascript&type=Repositories&ref=searchresults)
-+ [Creating Objects in JS](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+creating-objects-in-js&type=Repositories&ref=searchresults)
-+ [Creating Objects in JS Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+creating-objects-in-js-lab&type=Repositories&ref=searchresults)
-+ [Object Methods in JS](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+object-methods-in-js&type=Repositories&ref=searchresults)
-+ [Object Methods in JS Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+object-methods-in-js-lab&type=Repositories&ref=searchresults)
-+ [JS Space Invaders Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+js-space-invaders-lab&type=Repositories&ref=searchresults)
-+ [JS Tweet Shortener Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+js-tweet-shortener-lab&type=Repositories&ref=searchresults)
-+ [JS Github API Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+js-github-api-lab&type=Repositories&ref=searchresults)
++ [Object Oriented Javascript]
++ [Creating Objects in JS]
++ [Creating Objects in JS Lab]
++ [Object Methods in JS]
++ [Object Methods in JS Lab]
++ [JS Space Invaders Lab]
++ [JS Tweet Shortener Lab]
++ [JS Github API Lab]
 ## *Rails and Javascript*
 #### Asset Pipeline
-+ [What Is The Asset Pipeline](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+what-is-the-asset-pipeline&type=Repositories&ref=searchresults)
-+ [Javascript Manifests](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+javascript-manifests&type=Repositories&ref=searchresults)
-+ [Javascript Manifests Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+javascript-manifests-lab&type=Repositories&ref=searchresults)
-+ [Page Specific Javascript ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+page-specific-javascript&type=Repositories&ref=searchresults)
-+ [External Javascript Libraries](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+external-javascript-libraries&type=Repositories&ref=searchresults)
-+ [CSS Manifests](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+css-manifests&type=Repositories&ref=searchresults)
-+ [CSS Manifests Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+css-manifests-lab&type=Repositories&ref=searchresults)
-+ [External CSS Frameworks In Rails](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+external-css-frameworks-in-rails&type=Repositories&ref=searchresults)
-+ [Asset Preprocessors In Rails](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+asset-preprocessors-in-rails&type=Repositories&ref=searchresults)
-+ [Images And The Asset Pipeline](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+images-and-the-asset-pipeline&type=Repositories&ref=searchresults)
-+ [Bootstrap and the Asset Pipeline](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+bootstrap-and-the-asset-pipeline&type=Repositories&ref=searchresults)
-+ [Your Own JS And CSS In Rails](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+your-own-js-and-css-in-rails&type=Repositories&ref=searchresults)
-+ [Bootstrap Example Rails Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+bootstrap-example-rails-lab&type=Repositories&ref=searchresults)
++ [What Is The Asset Pipeline]
++ [Javascript Manifests]
++ [Javascript Manifests Lab]
++ [Page Specific Javascript ]
++ [External Javascript Libraries]
++ [CSS Manifests]
++ [CSS Manifests Lab]
++ [External CSS Frameworks In Rails]
++ [Asset Preprocessors In Rails]
++ [Images And The Asset Pipeline]
++ [Bootstrap and the Asset Pipeline]
++ [Your Own JS And CSS In Rails]
++ [Bootstrap Example Rails Lab]
 #### Popular Gems
-+ [How To Find Gems](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+how-to-find-gems&type=Repositories&ref=searchresults)
-+ [Paperclip](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+paperclip&type=Repositories&ref=searchresults)
-+ [Paperclip Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+paperclip-lab&type=Repositories&ref=searchresults)
-+ [Kaminari](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+kaminari&type=Repositories&ref=searchresults)
-+ [Kaminari Lab ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+kaminari-lab&type=Repositories&ref=searchresults)
-+ [Active Admin ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+active-admin&type=Repositories&ref=searchresults)
-+ [Active Admin Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+active-admin-lab&type=Repositories&ref=searchresults)
++ [How To Find Gems]
++ [Paperclip]
++ [Paperclip Lab]
++ [Kaminari]
++ [Kaminari Lab ]
++ [Active Admin ]
++ [Active Admin Lab]
 #### Workers
-+ [Long Running Tasks in Rails](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+long-running-tasks-in-rails&type=Repositories&ref=searchresults)
-+ [Long Running Tasks in Rails Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+long-running-tasks-in-rails-lab&type=Repositories&ref=searchresults)
-+ [Sidekiq](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sidekiq&type=Repositories&ref=searchresults)
-+ [Sidekiq Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+sidekiq-lab&type=Repositories&ref=searchresults)
++ [Long Running Tasks in Rails]
++ [Long Running Tasks in Rails Lab]
++ [Sidekiq]
++ [Sidekiq Lab]
 #### Consuming APIs
-+ [What Is An API? ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+what-is-an-api&type=Repositories&ref=searchresults)
-+ [APIs And Postman](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+apis-and-postman&type=Repositories&ref=searchresults)
-+ [Hitting APIs with Faraday](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+hitting-apis-with-faraday&type=Repositories&ref=searchresults)
-+ [Basic APIs Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+basic-apis-lab&type=Repositories&ref=searchresults)
-+ [Using OAuth With APIs](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+using-oauth-with-apis&type=Repositories&ref=searchresults)
-+ [Posting to APIs ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+posting-to-apis&type=Repositories&ref=searchresults)
-+ [Working with APIs](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+working-with-apis&type=Repositories&ref=searchresults)
-+ [Web Service Objects ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+web-service-objects&type=Repositories&ref=searchresults)
-+ [Refactoring APIs Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+refactoring-apis-lab&type=Repositories&ref=searchresults)
++ [What Is An API? ]
++ [APIs And Postman]
++ [Hitting APIs with Faraday]
++ [Basic APIs Lab]
++ [Using OAuth With APIs]
++ [Posting to APIs ]
++ [Working with APIs]
++ [Web Service Objects ]
++ [Refactoring APIs Lab]
 #### Building APIs
-+ [Why Build an API? ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+why-build-an-api&type=Repositories&ref=searchresults)
-+ [Returning String Data](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+returning-string-data&type=Repositories&ref=searchresults)
-+ [Returning Strings Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+returning-strings-lab&type=Repositories&ref=searchresults)
-+ [DIY JSON Serializer](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+diy-json-serializer&type=Repositories&ref=searchresults)
-+ [DIY JSON Serializer Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+diy-json-serializer-lab&type=Repositories&ref=searchresults)
-+ [Using to_json](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+using-to_json&type=Repositories&ref=searchresults)
-+ [Using to_json Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+using-to_json-lab&type=Repositories&ref=searchresults)
-+ [Using Active Model Serializer](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+using-active-model-serializer&type=Repositories&ref=searchresults)
-+ [Using Active Model Serializer Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+using-active-model-serializer-lab&type=Repositories&ref=searchresults)
-+ [Receiving API POSTs](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+receiving-api-posts&type=Repositories&ref=searchresults)
-+ [Receiving API POSTs Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+receiving-api-posts-lab&type=Repositories&ref=searchresults)
++ [Why Build an API? ]
++ [Returning String Data]
++ [Returning Strings Lab]
++ [DIY JSON Serializer]
++ [DIY JSON Serializer Lab]
++ [Using to_json]
++ [Using to_json Lab]
++ [Using Active Model Serializer]
++ [Using Active Model Serializer Lab]
++ [Receiving API POSTs]
++ [Receiving API POSTs Lab]
 #### Project Mode
-+ [jQuery Tic Tac Toe](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+jquery-tic-tac-toe&type=Repositories&ref=searchresults)
-+ [Rails App with a jQuery Front End](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+rails-app-with-a-jquery-front-end&type=Repositories&ref=searchresults)
++ [jQuery Tic Tac Toe]
++ [Rails App with a jQuery Front End]
 ## *AngularJS*
 #### Introduction to Angular
-+ [What Is Angular?](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+what-is-angular&type=Repositories&ref=searchresults)
-+ [Angular Concepts](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-concepts&type=Repositories&ref=searchresults)
-+ [Angular Setup ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-setup&type=Repositories&ref=searchresults)
-+ [Angular Project Setup Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-project-setup-lab&type=Repositories&ref=searchresults)
++ [What Is Angular?]
++ [Angular Concepts]
++ [Angular Setup ]
++ [Angular Project Setup Lab]
 #### Angular Modules
-+ [Angular Modules ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-modules&type=Repositories&ref=searchresults)
-+ [Angular Modules Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-modules-lab&type=Repositories&ref=searchresults)
++ [Angular Modules ]
++ [Angular Modules Lab]
 #### Angular Controllers
-+ [What Is A Controller?](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+what-is-a-controller&type=Repositories&ref=searchresults)
-+ [Angular Scope and Rootscope](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-scope-and-rootscope&type=Repositories&ref=searchresults)
-+ [Angular Hello World Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-hello-world-lab&type=Repositories&ref=searchresults)
-+ [Angular Data Binding ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-data-binding&type=Repositories&ref=searchresults)
-+ [Angular Using controllerAs](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-using-controlleras&type=Repositories&ref=searchresults)
-+ [ Refactor to Use controllerAs Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+refactor-to-use-controlleras-lab&type=Repositories&ref=searchresults)
-+ [Testing Controllers ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+testing-controllers&type=Repositories&ref=searchresults)
-+ [Writing a Unit Test Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+writing-a-unit-test-lab&type=Repositories&ref=searchresults)
-+ [Multiple Controllers Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+multiple-controllers-lab&type=Repositories&ref=searchresults)
++ [What Is A Controller?]
++ [Angular Scope and Rootscope]
++ [Angular Hello World Lab]
++ [Angular Data Binding ]
++ [Angular Using controllerAs]
++ [ Refactor to Use controllerAs Lab]
++ [Testing Controllers ]
++ [Writing a Unit Test Lab]
++ [Multiple Controllers Lab]
 #### Angular Services
-+ [What Is A Service?](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+what-is-a-service&type=Repositories&ref=searchresults)
-+ [Injecting A Service Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+injecting-a-service-lab&type=Repositories&ref=searchresults)
-+ [Minification Safe Dependency Injection](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+minification-safe-dependency-injection&type=Repositories&ref=searchresults)
-+ [Making Our App Minification Safe Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+making-our-app-minification-safe-lab&type=Repositories&ref=searchresults)
++ [What Is A Service?]
++ [Injecting A Service Lab]
++ [Minification Safe Dependency Injection]
++ [Making Our App Minification Safe Lab]
 #### Angular Directives
-+ [What Is A Directive?](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+what-is-a-directive&type=Repositories&ref=searchresults)
-+ [Event Based Directives ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+event-based-directives&type=Repositories&ref=searchresults)
-+ [Using Event Based Directives Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+using-event-based-directives-lab&type=Repositories&ref=searchresults)
-+ [Angular Behavioral Directives ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-behavioral-directives&type=Repositories&ref=searchresults)
-+ [Angular Behavioral Directives Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-behavioral-directives-lab&type=Repositories&ref=searchresults)
-+ [Angular Testing Directives ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-testing-directives&type=Repositories&ref=searchresults)
-+ [Angular e2e Test Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-e2e-test-lab&type=Repositories&ref=searchresults)
-+ [Angular Multiple Directives Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-multiple-directives-lab&type=Repositories&ref=searchresults)
++ [What Is A Directive?]
++ [Event Based Directives ]
++ [Using Event Based Directives Lab]
++ [Angular Behavioral Directives ]
++ [Angular Behavioral Directives Lab]
++ [Angular Testing Directives ]
++ [Angular e2e Test Lab]
++ [Angular Multiple Directives Lab]
 #### Angular Filters
-+ [What Is A Filter](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+what-is-a-filter&type=Repositories&ref=searchresults)
-+ [Angular Filters Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-filters-lab&type=Repositories&ref=searchresults)
-+ [Angular Testing Filters Readme](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-testing-filters-readme&type=Repositories&ref=searchresults)
-+ [Angular Testing Filters Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-testing-filters-lab&type=Repositories&ref=searchresults)
++ [What Is A Filter]
++ [Angular Filters Lab]
++ [Angular Testing Filters Readme]
++ [Angular Testing Filters Lab]
 #### Expressions
-+ [Angular What Is An Expression](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-what-is-an-expression&type=Repositories&ref=searchresults)
-+ [Angular Use Expressions Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-use-expressions-lab&type=Repositories&ref=searchresults)
++ [Angular What Is An Expression]
++ [Angular Use Expressions Lab]
 #### Custom Services
-+ [What Is A Custom Service](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+what-is-a-custom-service&type=Repositories&ref=searchresults)
-+ [Create A Service](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+create-a-service&type=Repositories&ref=searchresults)
-+ [HTTP Readme](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+http-readme&type=Repositories&ref=searchresults)
-+ [Integrate HTTP](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+integrate-http&type=Repositories&ref=searchresults)
-+ [Angular Resource](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-resource&type=Repositories&ref=searchresults)
-+ [HTTP Interceptors](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+http-interceptors&type=Repositories&ref=searchresults)
-+ [HTTP Interceptors Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+http-interceptors-lab&type=Repositories&ref=searchresults)
-+ [Testing Services](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+testing-services&type=Repositories&ref=searchresults)
-+ [Testing Services Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+testing-services-lab&type=Repositories&ref=searchresults)
-+ [Service Challenge Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+service-challenge-lab&type=Repositories&ref=searchresults)
++ [What Is A Custom Service]
++ [Create A Service]
++ [HTTP Readme]
++ [Integrate HTTP]
++ [Angular Resource]
++ [HTTP Interceptors]
++ [HTTP Interceptors Lab]
++ [Testing Services]
++ [Testing Services Lab]
++ [Service Challenge Lab]
 #### Custom Directives/Components
-+ [What Is A Custom Directive?](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+what-is-a-custom-directive&type=Repositories&ref=searchresults)
-+ [Create A Directive Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+create-a-directive-lab&type=Repositories&ref=searchresults)
-+ [Restricting Directive Usage ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+restricting-directive-usage&type=Repositories&ref=searchresults)
-+ [Understanding "Restrict" Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+understanding-restrict-lab&type=Repositories&ref=searchresults)
-+ [Angular Template](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-template&type=Repositories&ref=searchresults)
-+ [Angular Template Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-template-lab&type=Repositories&ref=searchresults)
-+ [Angular Replace ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-replace&type=Repositories&ref=searchresults)
-+ [Angular Replace Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-replace-lab&type=Repositories&ref=searchresults)
-+ [Inheriting Or Isolating Scope ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+inheriting-or-isolating-scope&type=Repositories&ref=searchresults)
-+ [Using Scope Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+using-scope-lab&type=Repositories&ref=searchresults)
-+ [Angular Directive Controllers](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-directive-controllers&type=Repositories&ref=searchresults)
-+ [Angular Using Directive Controllers Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-using-directive-controllers-lab&type=Repositories&ref=searchresults)
-+ [Angular Using bindToController](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-using-bindtocontroller&type=Repositories&ref=searchresults)
-+ [Angular Refactor Scope Bindings Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-refactor-scope-bindings-lab&type=Repositories&ref=searchresults)
-+ [Angular Sharing Directive Controllers](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-sharing-directive-controllers&type=Repositories&ref=searchresults)
-+ [Using Require Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+using-require-lab&type=Repositories&ref=searchresults)
-+ [Angular Using Compile Link](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-using-compile-link&type=Repositories&ref=searchresults)
-+ [Angular Compile Link Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-compile-link-lab&type=Repositories&ref=searchresults)
-+ [Angular Dom Manipulation](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-dom-manipulation&type=Repositories&ref=searchresults)
-+ [Native Dom APIs Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+native-dom-apis-lab&type=Repositories&ref=searchresults)
-+ [Angular Scope Apply Digest ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-scope-apply-digest&type=Repositories&ref=searchresults)
-+ [Angular Using Scope Apply Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-using-scope-apply-lab&type=Repositories&ref=searchresults)
-+ [Angular Transclusion ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-transclusion&type=Repositories&ref=searchresults)
-+ [Automated Transclusion Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+automated-transclusion-lab&type=Repositories&ref=searchresults)
-+ [Angular Manual Transclusion ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-manual-transclusion&type=Repositories&ref=searchresults)
-+ [Manual Transclusion Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+manual-transclusion-lab&type=Repositories&ref=searchresults)
-+ [Angular Multi-slot Transclusion ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-multi-slot-transclusion&type=Repositories&ref=searchresults)
-+ [Angular Multi-slot Transclusion Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-multi-slot-transclusion-lab&type=Repositories&ref=searchresults)
-+ [Angular Custom Events](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-custom-events&type=Repositories&ref=searchresults)
-+ [Using Dom Events Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+using-dom-events-lab&type=Repositories&ref=searchresults)
-+ [Angular Testing Custom Directives ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-testing-custom-directives&type=Repositories&ref=searchresults)
-+ [Testing Custom Directives Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+testing-custom-directives-lab&type=Repositories&ref=searchresults)
-+ [Angular Component Method ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-component-method&type=Repositories&ref=searchresults)
-+ [Component Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+component-lab&type=Repositories&ref=searchresults)
-+ [Writing A Custom Directive Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+writing-a-custom-directive-lab&type=Repositories&ref=searchresults)
++ [What Is A Custom Directive?]
++ [Create A Directive Lab]
++ [Restricting Directive Usage ]
++ [Understanding "Restrict" Lab]
++ [Angular Template]
++ [Angular Template Lab]
++ [Angular Replace ]
++ [Angular Replace Lab]
++ [Inheriting Or Isolating Scope ]
++ [Using Scope Lab]
++ [Angular Directive Controllers]
++ [Angular Using Directive Controllers Lab]
++ [Angular Using bindToController]
++ [Angular Refactor Scope Bindings Lab]
++ [Angular Sharing Directive Controllers]
++ [Using Require Lab]
++ [Angular Using Compile Link]
++ [Angular Compile Link Lab]
++ [Angular Dom Manipulation]
++ [Native Dom APIs Lab]
++ [Angular Scope Apply Digest ]
++ [Angular Using Scope Apply Lab]
++ [Angular Transclusion ]
++ [Automated Transclusion Lab]
++ [Angular Manual Transclusion ]
++ [Manual Transclusion Lab]
++ [Angular Multi-slot Transclusion ]
++ [Angular Multi-slot Transclusion Lab]
++ [Angular Custom Events]
++ [Using Dom Events Lab]
++ [Angular Testing Custom Directives ]
++ [Testing Custom Directives Lab]
++ [Angular Component Method ]
++ [Component Lab]
++ [Writing A Custom Directive Lab]
 #### Custom Filters
-+ [Creating Custom Filters ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+creating-custom-filters&type=Repositories&ref=searchresults)
-+ [Creating Custom Filters Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+creating-custom-filters-lab&type=Repositories&ref=searchresults)
-+ [Testing Custom Filters](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+testing-custom-filters&type=Repositories&ref=searchresults)
-+ [Testing Custom Filters Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+testing-custom-filters-lab&type=Repositories&ref=searchresults)
++ [Creating Custom Filters ]
++ [Creating Custom Filters Lab]
++ [Testing Custom Filters]
++ [Testing Custom Filters Lab]
 #### Event System
-+ [What Is The Event System ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+what-is-the-event-system&type=Repositories&ref=searchresults)
-+ [Using The Events System Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+using-the-events-system-lab&type=Repositories&ref=searchresults)
++ [What Is The Event System ]
++ [Using The Events System Lab]
 #### Forms and Validation
-+ [Angular Forms ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-forms&type=Repositories&ref=searchresults)
-+ [Basic Validation Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+basic-validation-lab&type=Repositories&ref=searchresults)
-+ [Using Ngmessages ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+using-ngmessages&type=Repositories&ref=searchresults)
-+ [Using Ngmessages Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+using-ngmessages-lab&type=Repositories&ref=searchresults)
-+ [Angular Parsers and Formatters ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-parsers-and-formatters&type=Repositories&ref=searchresults)
-+ [Angular Custom Validation ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-custom-validation&type=Repositories&ref=searchresults)
-+ [Angular Parsing and Displaying Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-parsing-and-displaying-lab&type=Repositories&ref=searchresults)
++ [Angular Forms ]
++ [Basic Validation Lab]
++ [Using Ngmessages ]
++ [Using Ngmessages Lab]
++ [Angular Parsers and Formatters ]
++ [Angular Custom Validation ]
++ [Angular Parsing and Displaying Lab]
 #### Routing and Resolving Data
-+ [Angular ngRroute ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-ngrroute&type=Repositories&ref=searchresults)
-+ [Angular ngRoute Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-ngroute-lab&type=Repositories&ref=searchresults)
-+ [Angular ui-Router ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-ui-router&type=Repositories&ref=searchresults)
-+ [Angular Ui Router Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-ui-router-lab&type=Repositories&ref=searchresults)
-+ [Angular Nested Views ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-nested-views&type=Repositories&ref=searchresults)
-+ [Angular Nested Views Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-nested-views-lab&type=Repositories&ref=searchresults)
-+ [Angular Routing Testing ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-routing-testing&type=Repositories&ref=searchresults)
-+ [Angular Routing Testing Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-routing-testing-lab&type=Repositories&ref=searchresults)
++ [Angular ngRroute ]
++ [Angular ngRoute Lab]
++ [Angular ui-Router ]
++ [Angular Ui Router Lab]
++ [Angular Nested Views ]
++ [Angular Nested Views Lab]
++ [Angular Routing Testing ]
++ [Angular Routing Testing Lab]
 #### Performance
-+ [Angular Track By ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-track-by&type=Repositories&ref=searchresults)
-+ [Using Filter In Controllers ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+using-filter-in-controllers&type=Repositories&ref=searchresults)
-+ [Filter Track By Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+filter-track-by-lab&type=Repositories&ref=searchresults)
-+ [Angular Ng Model Options ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-ng-model-options&type=Repositories&ref=searchresults)
-+ [Ng Model Options Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+ng-model-options-lab&type=Repositories&ref=searchresults)
-+ [Angular StrictDi Mode](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-strictdi-mode&type=Repositories&ref=searchresults)
-+ [Angular Apply Async](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-apply-async&type=Repositories&ref=searchresults)
-+ [Angular Disable Debug Info ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-disable-debug-info&type=Repositories&ref=searchresults)
-+ [Angular Scope Watch](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-scope-watch&type=Repositories&ref=searchresults)
-+ [Angular Scope Watch Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-scope-watch-lab&type=Repositories&ref=searchresults)
-+ [Angular Watchers ](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-watchers&type=Repositories&ref=searchresults)
++ [Angular Track By ]
++ [Using Filter In Controllers ]
++ [Filter Track By Lab]
++ [Angular Ng Model Options ]
++ [Ng Model Options Lab]
++ [Angular StrictDi Mode]
++ [Angular Apply Async]
++ [Angular Disable Debug Info ]
++ [Angular Scope Watch]
++ [Angular Scope Watch Lab]
++ [Angular Watchers ]
 #### Angular Project Mode
-+ [Angular HackerNews Lab](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+angular-hackernews-lab&type=Repositories&ref=searchresults)
++ [Angular HackerNews Lab]
 ## *Final Project*
 #### Final Project
-+ [Rails Angular Portfolio Project](https://github.com/search?utf8=%E2%9C%93&q=user%3Alearn-co-students+rails-angular-assessment&type=Repositories&ref=searchresults)
++ [Rails Angular Portfolio Project]
